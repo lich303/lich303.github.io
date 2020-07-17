@@ -43,17 +43,10 @@ src="https://media1.giphy.com/media/26gR0GGJEguPoooMw/giphy.gif"
 alt="Bruh" 
 style="width:48px;height:48px;">
 
-<h2>Checkboxes</h2>
-<p>The <strong>input type="checkbox"</strong> defines a checkbox:</p>
 
-<a href=""
-  <input type="checkbox" id="bruh1" name="bruh1" value="bruh">
-  <label for="vehicle1"> bruh moment</label><br>
-  <input type="checkbox" id="Bruh2" name="Bruh2" value="Bruh">
-  <label for="vehicle2"> Bruh moment</label><br>
-  <input type="checkbox" id="BRUH3" name="BRUH3" value="BRUH">
-  <label for="vehicle3"> BRUH MOMENT</label><br><br>
-  <input type="submit" value="Submit">
+<html><head><script type="text/javascript" defer="" src="//www.123formbuilder.com/embed/5555459.js" data-role="form" data-="" default-width="650px"></script>
+    <!-- www.123formbuilder.com script ends here --></head><body><iframe id="1594953094103_614719124549969" src="//www.123formbuilder.com/js-form-username-5555459.html?ref=https%3A%2F%2Fwww.freecodeformat.com%2Fjs-html.php&amp;_referrer_=&amp;_embedType_=embed.js&amp;_iframeID_=1594953094103_614719124549969" frameborder="0" scrolling="no" style="padding: 0px; margin: 0px; display: block; width: 100%; background-color: transparent; overflow: hidden; height: 2778.09px;"></iframe></body></html>
+
 </form> 
 </body>
 </html>
